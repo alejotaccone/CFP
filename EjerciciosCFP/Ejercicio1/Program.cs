@@ -27,11 +27,11 @@
             edadString = Console.ReadLine();
 
             edadInt = int.Parse(edadString);
-            
+
 
             Console.WriteLine("Bienvenido " + nombre + " " + apellido + ", Su edad es: " + edadInt);
 
-            Console.WriteLine("Bienvenido {0} {1}, Su edad es: {2}",nombre,apellido,edadInt);
+            Console.WriteLine("Bienvenido {0} {1}, Su edad es: {2}", nombre, apellido, edadInt);
 
             Console.WriteLine($"Bienvenido {nombre} {apellido}, Su edad es: {edadInt}");
 

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejemplo1.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejemplo1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\Ejemplo2.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\Program.cs",
               "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T23:54:45.57Z",
+              "WhenOpened": "2024-03-20T22:58:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
+              "RelativeToolTip": "Ejemplo2\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwC0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:44:56.256Z",
               "EditorCaption": ""
             }
           ]

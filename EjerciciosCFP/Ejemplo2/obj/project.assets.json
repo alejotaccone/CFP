@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\Ejemplo1.csproj",
-      "projectName": "Ejemplo1",
-      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\Ejemplo1.csproj",
+      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Ejemplo2.csproj",
+      "projectName": "Ejemplo2",
+      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Ejemplo2.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\obj\\",
+      "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
