@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejemplo1.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D04ACA1-7EF1-4550-B16A-54F4D844F4E7}|Ejercicio1\\Ejemplo1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\Ejemplo2.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6CA048-559C-4AC9-B6C4-76901CA8AA8A}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6CA048-559C-4AC9-B6C4-76901CA8AA8A}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6CA048-559C-4AC9-B6C4-76901CA8AA8A}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio6\\ejercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E6CA048-559C-4AC9-B6C4-76901CA8AA8A}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\ejercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D90CE2-191A-4E2F-BF2F-DD8ED052E3CD}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D90CE2-191A-4E2F-BF2F-DD8ED052E3CD}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA8E40-47D3-48EA-B08D-5DCA13608EAE}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA8E40-47D3-48EA-B08D-5DCA13608EAE}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B98B8B-4632-4B04-8A9C-AA40DB2062DB}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B98B8B-4632-4B04-8A9C-AA40DB2062DB}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16982E78-A92B-46FA-BFEF-B2FB1EA97F87}|Ejercicio_1\\Ejercicio_1.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16982E78-A92B-46FA-BFEF-B2FB1EA97F87}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8111267-4CC8-4A84-90C3-22267689C229}|EjemploBucles\\EjemploBucles.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8111267-4CC8-4A84-90C3-22267689C229}|EjemploBucles\\EjemploBucles.csproj|solutionrelative:ejemplobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\EjemploCondicionales.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5CCF45-85BF-40C9-8EB6-6750E74D3C77}|Ejemplo2\\EjemploCondicionales.csproj|solutionrelative:ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio6",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio6\\Ejercicio6.csproj",
+              "RelativeDocumentMoniker": "Ejercicio6\\Ejercicio6.csproj",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio6\\Ejercicio6.csproj",
+              "RelativeToolTip": "Ejercicio6\\Ejercicio6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T01:34:29.885Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio1\\Program.cs",
-              "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:58:09.203Z",
+              "WhenOpened": "2024-03-27T01:26:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:17:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:14:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:12:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio_1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio_1\\Program.cs",
+              "RelativeToolTip": "Ejercicio_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:09:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
+              "RelativeToolTip": "Ejemplo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:11:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploBucles\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploBucles\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploBucles\\Program.cs",
+              "RelativeToolTip": "EjemploBucles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:11:25.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo2\\Program.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Program.cs",
-              "RelativeToolTip": "Ejemplo2\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwC0AAAATAAAA",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T21:44:56.256Z",
+              "WhenOpened": "2024-03-25T23:09:24.566Z",
               "EditorCaption": ""
             }
           ]

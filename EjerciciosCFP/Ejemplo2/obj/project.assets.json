@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Ejemplo2.csproj",
-      "projectName": "Ejemplo2",
-      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\Ejemplo2.csproj",
+      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\EjemploCondicionales.csproj",
+      "projectName": "EjemploCondicionales",
+      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\EjemploCondicionales.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejemplo2\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\bin\Debug\net8.0\EjemploBucles.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\bin\Debug\net8.0\EjemploBucles.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\bin\Debug\net8.0\EjemploBucles.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\bin\Debug\net8.0\EjemploBucles.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\bin\Debug\net8.0\EjemploBucles.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\refint\EjemploBucles.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\EjemploBucles.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploBucles\obj\Debug\net8.0\ref\EjemploBucles.dll
