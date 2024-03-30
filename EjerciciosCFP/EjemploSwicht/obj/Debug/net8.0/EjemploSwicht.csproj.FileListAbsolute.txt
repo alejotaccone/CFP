@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\bin\Debug\net8.0\EjemploSwicht.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\bin\Debug\net8.0\EjemploSwicht.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\bin\Debug\net8.0\EjemploSwicht.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\bin\Debug\net8.0\EjemploSwicht.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\bin\Debug\net8.0\EjemploSwicht.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\refint\EjemploSwicht.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\EjemploSwicht.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploSwicht\obj\Debug\net8.0\ref\EjemploSwicht.dll

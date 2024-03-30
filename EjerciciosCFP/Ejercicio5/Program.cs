@@ -1,10 +1,10 @@
-﻿namespace Ejercicio5
+﻿namespace Ejercicio4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Ingresar 5 números enteros, calcular y mostrar el promedio
+            //Ingresar 5 números enteros, calcular y mostrar el promedio.
             int nroUno;
             int nroDos;
             int nroTres;

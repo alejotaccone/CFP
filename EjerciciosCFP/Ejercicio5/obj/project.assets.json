@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio5.csproj",
-      "projectName": "Ejercicio5",
-      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj",
+      "projectName": "Ejercicio4",
+      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\obj\\",
       "projectStyle": "PackageReference",

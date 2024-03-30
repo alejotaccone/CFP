@@ -30,19 +30,24 @@ namespace Ejercicio7
             int promedioNegativos = 0;
             int diferencia = 0;
             int numeroMaximo = 0;
+            int numeroMaximoBandera = 0;
             int minimoNegativo = 0;
+            int minimoNegativoBandera = 0;
 
 
             for (int i = 0; i < 5 ; i++)
             {
                 Console.WriteLine($"Ingrese un numero: {i}/5 ");
                 numero = int.Parse( Console.ReadLine() );
-                numeroMaximo = numero;
 
                 if (numero > 0)
                 {
                     sumaPositivos = sumaPositivos + numero;
                     cantidadPositivos++;
+                    numeroMaximoBandera = numero;
+                    if (i == 0 || numeroMaximoBandera > numeroMaximo){
+                        numeroMaximo = numero;
+                    }
                 }
                 else
                 {
@@ -50,23 +55,21 @@ namespace Ejercicio7
                     {
                         sumaNegativos = sumaNegativos - numero;
                         cantidadNegativos++;
+                        minimoNegativoBandera = numero;
+                        if (i == 0 || minimoNegativo > minimoNegativoBandera)
+                        {
+                            minimoNegativo = numero;
+                        }
                     }
                     else
                     {
                         cantidadCeros++;
                     }
                 }
-
                 if (numero % 2 == 0)
                 {
                     cantidadPares++;
-                }
-
-                if (i == 0 || numeroMaximo < numero)
-                {
-                    numeroMaximo = numero;
-                }
-                
+                }    
             }
 
             promedioPositivos = sumaPositivos / 5;

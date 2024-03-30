@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EjemploSwicht/1.0.0": {
+        "runtime": {
+          "EjemploSwicht.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploSwicht/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

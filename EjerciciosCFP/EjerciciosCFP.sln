@@ -13,15 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios", "Ejercicios", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploBucles", "EjemploBucles\EjemploBucles.csproj", "{B8111267-4CC8-4A84-90C3-22267689C229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1", "Ejercicio_1\Ejercicio_1.csproj", "{16982E78-A92B-46FA-BFEF-B2FB1EA97F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_1", "Ejercicio_1\Ejercicio_1.csproj", "{16982E78-A92B-46FA-BFEF-B2FB1EA97F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{F6B98B8B-4632-4B04-8A9C-AA40DB2062DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{F6B98B8B-4632-4B04-8A9C-AA40DB2062DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{BACA8E40-47D3-48EA-B08D-5DCA13608EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{BACA8E40-47D3-48EA-B08D-5DCA13608EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5", "Ejercicio5\Ejercicio5.csproj", "{96D90CE2-191A-4E2F-BF2F-DD8ED052E3CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio4", "Ejercicio5\Ejercicio4.csproj", "{96D90CE2-191A-4E2F-BF2F-DD8ED052E3CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio7", "Ejercicio7\Ejercicio7.csproj", "{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio7", "Ejercicio7\Ejercicio7.csproj", "{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploSwicht", "EjemploSwicht\EjemploSwicht.csproj", "{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploArrays", "EjemploArrays\EjemploArrays.csproj", "{30BBE155-3881-43B5-8549-1063F23A3741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,14 @@ Global
 		{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BBE155-3881-43B5-8549-1063F23A3741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BBE155-3881-43B5-8549-1063F23A3741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BBE155-3881-43B5-8549-1063F23A3741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BBE155-3881-43B5-8549-1063F23A3741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +86,8 @@ Global
 		{BACA8E40-47D3-48EA-B08D-5DCA13608EAE} = {BBDE6BBF-BCCC-461E-BBAC-97667BE85B9F}
 		{96D90CE2-191A-4E2F-BF2F-DD8ED052E3CD} = {BBDE6BBF-BCCC-461E-BBAC-97667BE85B9F}
 		{5EC2C922-E1D5-46B4-A19D-9C4D2E7B2FF6} = {BBDE6BBF-BCCC-461E-BBAC-97667BE85B9F}
+		{F46B15E7-A0D3-4D95-ACA6-F2AD8A8FD26D} = {68AF0D57-B4A1-4182-8E91-FBFE2B129676}
+		{30BBE155-3881-43B5-8549-1063F23A3741} = {68AF0D57-B4A1-4182-8E91-FBFE2B129676}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {79929830-9ADC-4F01-ADB2-C58AF07331E9}

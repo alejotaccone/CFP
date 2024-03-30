@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\bin\Debug\net8.0\EjemploArrays.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\bin\Debug\net8.0\EjemploArrays.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\bin\Debug\net8.0\EjemploArrays.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\bin\Debug\net8.0\EjemploArrays.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\bin\Debug\net8.0\EjemploArrays.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\refint\EjemploArrays.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\EjemploArrays.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploArrays\obj\Debug\net8.0\ref\EjemploArrays.dll
