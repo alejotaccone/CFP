@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\bin\Debug\net8.0\Ejercicio4BucleFor.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\bin\Debug\net8.0\Ejercicio4BucleFor.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\bin\Debug\net8.0\Ejercicio4BucleFor.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\bin\Debug\net8.0\Ejercicio4BucleFor.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\bin\Debug\net8.0\Ejercicio4BucleFor.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\refint\Ejercicio4BucleFor.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\Ejercicio4BucleFor.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio4BucleFor\obj\Debug\net8.0\ref\Ejercicio4BucleFor.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj": {}
+    "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio4BucleFor\\Ejercicio4BucleFor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj": {
+    "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio4BucleFor\\Ejercicio4BucleFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj",
-        "projectName": "Ejercicio4",
-        "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\Ejercicio4.csproj",
+        "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio4BucleFor\\Ejercicio4BucleFor.csproj",
+        "projectName": "Ejercicio4BucleFor",
+        "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio4BucleFor\\Ejercicio4BucleFor.csproj",
         "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio5\\obj\\",
+        "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio4BucleFor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

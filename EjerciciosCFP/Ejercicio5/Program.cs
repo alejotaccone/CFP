@@ -1,32 +1,36 @@
-﻿namespace Ejercicio4
+﻿namespace Ejercicio5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Ingresar 5 números enteros, calcular y mostrar el promedio.
-            int nroUno;
-            int nroDos;
-            int nroTres;
-            int nroCuatro;
-            int nroCinco;
-            float promedio;
 
-            Console.WriteLine("Ingrese el primer numero: ");
-            nroUno = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el segundo numero: ");
-            nroDos = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el tercer numero: ");
-            nroTres = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el cuarto numero: ");
-            nroCuatro = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el quinto numero: ");
-            nroCinco = int.Parse(Console.ReadLine());
+            //(E / S)
+            //En un hospital existen tres áreas: Cardiología, Pediatría y Traumatología.El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
+            //Área Porcentaje del presupuesto
+            //Cardiología         40 %
+            //Pediatría           45 %
+            //Traumatología       15 %
 
-            promedio = (nroUno + nroDos + nroTres + nroCuatro + nroCinco) / 5 ;
+            double cardiologia = 0.40;
+            double pediatria = 0.45;
+            double traumatologia = 0.15;
+            int presupuesto;
+            double presupuestoCardiologia;
+            double presupuestoTraumatologia;
+            double presupuestoPediatria;
 
-            Console.WriteLine($"El promedio de los 5 numeros es de: {promedio}");
+            Console.WriteLine("Ingrese el presupuesto anual: ");
+            presupuesto = int.Parse(Console.ReadLine());
 
+            presupuestoCardiologia = presupuesto * cardiologia;
+            presupuestoPediatria = presupuesto * pediatria;
+            presupuestoTraumatologia = presupuesto * traumatologia;
+
+            Console.WriteLine($"El presupuesto anual es: {presupuesto}");
+            Console.WriteLine($"El presupuesto para cardiologia es: {presupuestoCardiologia}");
+            Console.WriteLine($"El presupuesto para cardiologia es: {presupuestoPediatria}");
+            Console.WriteLine($"El presupuesto para cardiologia es: {presupuestoTraumatologia}");
         }
     }
 }
