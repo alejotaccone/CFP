@@ -48,8 +48,8 @@
 
             //--------------------------------------------------------------------------------------
 
-            string nombre;
-            bool esIncorrecto;
+            //string nombre;
+            //bool esIncorrecto;
 
             //for (int i = 0; i < nombre.Length; i++)
             //{
@@ -70,27 +70,27 @@
             //    }
             //}
 
-            do
-            {
-                esIncorrecto = false;
-                Console.WriteLine("Ingrese su nombre");
-                nombre = Console.ReadLine();
+            //do
+            //{
+            //    esIncorrecto = false;
+            //    Console.WriteLine("Ingrese su nombre");
+            //    nombre = Console.ReadLine();
 
-                for (int i = 0; i < nombre.Length; i++)
-                {
-                    if (!char.IsLetter(nombre[i]))
-                    {
-                        Console.WriteLine("El nombre debe tener solo letras");
-                        esIncorrecto = true;
-                        break;
-                    }
+            //    for (int i = 0; i < nombre.Length; i++)
+            //    {
+            //        if (!char.IsLetter(nombre[i]))
+            //        {
+            //            Console.WriteLine("El nombre debe tener solo letras");
+            //            esIncorrecto = true;
+            //            break;
+            //        }
 
-                }
-            } while (esIncorrecto);
+            //    }
+            //} while (esIncorrecto);
 
 
 
-            Console.WriteLine(nombre);
+            //Console.WriteLine(nombre);
         }
     }
 }

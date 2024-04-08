@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\bin\Debug\net8.0\EjemploFunciones.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\bin\Debug\net8.0\EjemploFunciones.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\bin\Debug\net8.0\EjemploFunciones.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\bin\Debug\net8.0\EjemploFunciones.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\bin\Debug\net8.0\EjemploFunciones.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\refint\EjemploFunciones.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\EjemploFunciones.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjemploFunciones\obj\Debug\net8.0\ref\EjemploFunciones.dll

@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\bin\Debug\net8.0\Ejercicio2String.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\bin\Debug\net8.0\Ejercicio2String.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\bin\Debug\net8.0\Ejercicio2String.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\bin\Debug\net8.0\Ejercicio2String.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\bin\Debug\net8.0\Ejercicio2String.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\refint\Ejercicio2String.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\Ejercicio2String.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\Ejercicio2String\obj\Debug\net8.0\ref\Ejercicio2String.dll
